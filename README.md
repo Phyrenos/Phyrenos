@@ -7,7 +7,7 @@ i am a full stack python developer<br>i am also a games developer using unity an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Phyrenos&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Phyrenos&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyrenos&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyrenos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Phyrenos&icon=3&color=7)](https://visitcount.itsvg.in)
